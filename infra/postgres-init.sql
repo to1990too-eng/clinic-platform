@@ -1,0 +1,4 @@
+CREATE EXTENSION IF NOT EXISTS btree_gist;
+CREATE DATABASE clinic_hub;
+\c clinic_hub
+CREATE EXTENSION IF NOT EXISTS btree_gist;
